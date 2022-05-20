@@ -1,0 +1,11 @@
+{
+    "name": "Covid-19 Status UK",
+    "version": "1.0.0",
+    "description": "latest covid data of uk",
+    "manifest_version": 3,
+    "author": "Jayden Baylis",
+    "action": {
+        "default_popup": "index.html",
+        "default_title": "Latese Covid Report"
+    }
+}
